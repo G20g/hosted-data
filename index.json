@@ -1,0 +1,256 @@
+{
+  "directedBuyPartsData": [
+    {
+      "ptnum": "4545130-A-Red",
+      "suppname": "Yakima Products",
+      "ctry": "Unites States",
+      "costperunit": 3.0,
+      "freight": 3.0,
+      "qty": 3.0,
+      "mrkupper": ""
+    },
+    {
+      "ptnum": "454255130-B-Blue",
+      "suppname": "Yakima Products",
+      "ctry": "Unites States",
+      "costperunit": 3.0,
+      "freight": 3.0,
+      "qty": 3.0,
+      "mrkupper": ""
+    },
+    {
+      "ptnum": "34524652-G-Lg",
+      "suppname": "Yakima Products",
+      "ctry": "Unites States",
+      "costperunit": 3.0,
+      "freight": 3.0,
+      "qty": 3.0,
+      "mrkupper": ""
+    }
+  ],
+  "purchasedPartsData": [
+    {
+      "id": 1,
+      "ptnum": "",
+      "suppname": "",
+      "ctry": "",
+      "costperunit": "",
+      "freight": "",
+      "qty": "",
+      "mrkupper": ""
+    },
+    {
+      "id": 2,
+      "ptnum": "",
+      "suppname": "",
+      "ctry": "",
+      "costperunit": "",
+      "freight": "",
+      "qty": "",
+      "mrkupper": ""
+    },
+    {
+      "id": 3,
+      "ptnum": "",
+      "suppname": "",
+      "ctry": "",
+      "costperunit": "",
+      "freight": "",
+      "qty": "",
+      "mrkupper": ""
+    }
+  ],
+  "rawMaterialsData": [
+    {
+      "id": 1,
+      "rmdesc": "",
+      "ctry": "",
+      "uom": "",
+      "purcst": "",
+      "grossmass": "",
+      "netmass": "",
+      "qltscrap": ""
+    },
+    {
+      "id": 2,
+      "rmdesc": "",
+      "ctry": "",
+      "uom": "",
+      "purcst": "",
+      "grossmass": "",
+      "netmass": "",
+      "qltscrap": ""
+    },
+    {
+      "id": 3,
+      "rmdesc": "",
+      "ctry": "",
+      "uom": "",
+      "purcst": "",
+      "grossmass": "",
+      "netmass": "",
+      "qltscrap": ""
+    }
+  ],
+  "reclaimData": [
+    {
+      "id": 1,
+      "reclaimdesc": "",
+      "ctry": "",
+      "uom": "",
+      "reclaimval": "",
+      "totalreclaimqty": ""
+    },
+    {
+      "id": 2,
+      "reclaimdesc": "",
+      "ctry": "",
+      "uom": "",
+      "reclaimval": "",
+      "totalreclaimqty": ""
+    },
+    {
+      "id": 3,
+      "reclaimdesc": "",
+      "ctry": "",
+      "uom": "",
+      "reclaimval": "",
+      "totalreclaimqty": ""
+    }
+  ],
+  "manufacturingProcessData": [
+    {
+      "id": 1,
+      "oper": "",
+      "mfgdesc": "",
+      "noofoper": "",
+      "hrlyop": "",
+      "labourcst": "",
+      "machinerate": "",
+      "qltscrap": ""
+    },
+    {
+      "id": 2,
+      "oper": "",
+      "mfgdesc": "",
+      "noofoper": "",
+      "hrlyop": "",
+      "labourcst": "",
+      "machinerate": "",
+      "qltscrap": ""
+    },
+    {
+      "id": 3,
+      "oper": "",
+      "mfgdesc": "",
+      "noofoper": "",
+      "hrlyop": "",
+      "labourcst": "",
+      "machinerate": "",
+      "qltscrap": ""
+    }
+  ],
+  "assemblyData": [
+    {
+      "id": 1,
+      "oper": "",
+      "mfgdesc": "",
+      "noofoper": "",
+      "hrlyop": "",
+      "labourcst": "",
+      "facilitycst": ""
+    },
+    {
+      "id": 3,
+      "oper": "",
+      "mfgdesc": "",
+      "noofoper": "",
+      "hrlyop": "",
+      "labourcst": "",
+      "facilitycst": ""
+    },
+    {
+      "id": 2,
+      "oper": "",
+      "mfgdesc": "",
+      "noofoper": "",
+      "hrlyop": "",
+      "labourcst": "",
+      "facilitycst": ""
+    }
+  ],
+  "otherCostsData": [
+    {
+      "id": 1,
+      "costtype": "Sales, General & Adnimistrative (SG&A) Costs",
+      "percst": ""
+    },
+    {
+      "id": 2,
+      "costtype": "Profit (% Process & Material)",
+      "percst": ""
+    },
+    {
+      "id": 3,
+      "costtype": "Raw Material Markup",
+      "percst": ""
+    },
+    {
+      "id": 4,
+      "costtype": "Assembly Scrap",
+      "percst": ""
+    }
+  ],
+  "yoyCostReductionData": [
+    {
+      "id": 1,
+      "yeardesc": "Piece Cost Subtotal (SOP + 1)",
+      "yoyper": ""
+    },
+    {
+      "id": 2,
+      "yeardesc": "Piece Cost Subtotal (SOP + 2)",
+      "yoyper": ""
+    },
+    {
+      "id": 3,
+      "yeardesc": "Piece Cost Subtotal (SOP + 3)",
+      "yoyper": ""
+    },
+    {
+      "id": 4,
+      "yeardesc": "Piece Cost Subtotal (SOP + 4)",
+      "yoyper": ""
+    },
+    {
+      "id": 5,
+      "yeardesc": "Piece Cost Subtotal (SOP + 5)",
+      "yoyper": ""
+    },
+    {
+      "id": 6,
+      "yeardesc": "Piece Cost Subtotal (SOP + 6)",
+      "yoyper": ""
+    },
+    {
+      "id": 7,
+      "yeardesc": "Piece Cost Subtotal (SOP + 7)",
+      "yoyper": ""
+    },
+    {
+      "id": 8,
+      "yeardesc": "Piece Cost Subtotal (SOP + 8)",
+      "yoyper": ""
+    },
+    {
+      "id": 9,
+      "yeardesc": "Piece Cost Subtotal (SOP + 9)",
+      "yoyper": ""
+    },
+    {
+      "id": 10,
+      "yeardesc": "Piece Cost Subtotal (SOP + 10)",
+      "yoyper": ""
+    }
+  ]
+}
